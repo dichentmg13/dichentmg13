@@ -32,12 +32,12 @@
 
 <br>
 
+
 ## 📊 GitHub Analytics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dichentmg13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=dichentmg13&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=dichentmg13&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
 <br>
 
 ## 🐍 Contribution Activity
